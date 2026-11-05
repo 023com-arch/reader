@@ -1,5 +1,5 @@
 name: pure_read
- description: Offline local-first reader
+description: Offline local-first reader
 version: 1.0.0+1
 publish_to: none
 
